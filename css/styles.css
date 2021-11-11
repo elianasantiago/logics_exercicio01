@@ -1,0 +1,25 @@
+body{
+
+	background-color: lightgrey;
+}
+
+h1{
+	font-size: 30px; color: salmon;font-family: Georgia; font-weight: bold;
+}
+h2{
+	color: DarkKhaki; font-size: 15px; font-family: Georgia;
+
+}
+.super {
+	font-size: 60px;
+}
+.maiuscula{
+	text-transform: uppercase;
+}
+.super.maiuscula{
+	color: indigo;
+}
+
+h1 span{
+	color: forestgreen;
+}
